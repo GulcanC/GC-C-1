@@ -1,7 +1,7 @@
 
-# ADVANCE CSS AND SASS PROJECT 1
+# ADVANCE CSS AND SASS PROJECT 2
 # Go to the Project Page
-https://gulcanc.github.io/GC-C-1/
+https://gulcanc.github.io/GC-SASS-2/
 
 # About the Project
 This is my first advance CSS and Sass project as a part of the projects of the bestselling course “UDEMY - Advanced CSS and Sass: Flexbox, Grid, Animations and More!”. With this beautiful and perfectly designed project, I have learned complex CSS animations, advanced responsive design techniques, flexbox layouts, Sass, CSS architecture, fundamental CSS concepts, and so much more.
